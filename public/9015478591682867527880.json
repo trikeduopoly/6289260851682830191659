@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97068557374",
+    "project_id": "pinjamantanpabichecking-winong",
+    "storage_bucket": "pinjamantanpabichecking-winong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97068557374:android:a3025b05adff3771751d6f",
+        "android_client_info": {
+          "package_name": "com.pinjamantanpabichecking.winong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97068557374-i62mglpr2mq4hpjpavc7kaps0g2ueed6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzLtUruafURlfM8Du2iOSCaxMWYZSUw6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97068557374-i62mglpr2mq4hpjpavc7kaps0g2ueed6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
